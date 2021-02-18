@@ -7,7 +7,7 @@
         
         public function __construct(){
             $this->api_url = "http://apis.ciceksepeti.com";
-            $this->api_key = "cxlrcoRRC57w7YApZmZGy2r3VKV7iZp484jsorks";
+            $this->api_key = "*****************************";
         }
         public function siparis_getir(){
             $post_verisi = array(
